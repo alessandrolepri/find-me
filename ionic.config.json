@@ -1,0 +1,7 @@
+{
+  "name": "Find me",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
